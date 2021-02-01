@@ -758,6 +758,13 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "Instagram": {
+    "errorType": "status_code",
+    "url": "https://instagram.com/@{}",
+    "urlMain": "https://instagram.com/",
+    "username_claimed": "red",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "ICQ": {
     "errorMsg": "Profile not found",
     "errorType": "message",
